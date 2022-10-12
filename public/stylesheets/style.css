@@ -1,0 +1,16 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+.footerstl{
+  background-color: black;
+  width: 100%;
+  height: 100px;
+  margin-top: 20px;
+  bottom: 0px;
+}
