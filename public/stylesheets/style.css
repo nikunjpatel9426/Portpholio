@@ -1,16 +1,26 @@
 body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  margin-bottom: 40px;
 }
 
 a {
   color: #00B7FF;
 }
 
-
-.footerstl{
-  background-color: black;
-  width: 100%;
-  height: 100px;
+footer{
+  position: fixed;
   margin-top: 20px;
-  bottom: 0px;
+  background-color: black;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+}
+
+.cardcontact{  
+  margin: auto;
+  margin-top: 20px;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  background-color: blanchedalmond;
 }
